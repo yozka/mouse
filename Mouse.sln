@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse", "Mouse\Mouse.csproj", "{AD844050-2EA1-4879-8B94-D50D5C13F293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseContent", "MouseContent\MouseContent.contentproj", "{BC394470-8E9E-4363-A6F1-A8CCA8AD2E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD844050-2EA1-4879-8B94-D50D5C13F293}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{AD844050-2EA1-4879-8B94-D50D5C13F293}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{AD844050-2EA1-4879-8B94-D50D5C13F293}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{AD844050-2EA1-4879-8B94-D50D5C13F293}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{AD844050-2EA1-4879-8B94-D50D5C13F293}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{AD844050-2EA1-4879-8B94-D50D5C13F293}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{BC394470-8E9E-4363-A6F1-A8CCA8AD2E9E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{BC394470-8E9E-4363-A6F1-A8CCA8AD2E9E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
